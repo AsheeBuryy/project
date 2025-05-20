@@ -1,0 +1,28 @@
+2025-05-20 17:02:03,110 - INFO - package: mysql.connector.plugins
+2025-05-20 17:02:03,111 - INFO - plugin_name: caching_sha2_password
+2025-05-20 17:02:03,111 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-20 17:02:03,119 - ERROR - Error inserting user 'AS': 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-05-20 17:06:03,045 - INFO - package: mysql.connector.plugins
+2025-05-20 17:06:03,045 - INFO - plugin_name: caching_sha2_password
+2025-05-20 17:06:03,045 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-20 17:06:03,056 - ERROR - Error inserting user 'AS': 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-05-20 17:16:37,050 - INFO - package: mysql.connector.plugins
+2025-05-20 17:16:37,051 - INFO - plugin_name: caching_sha2_password
+2025-05-20 17:16:37,051 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-20 17:16:37,060 - ERROR - Error inserting user 'asg': 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-05-20 17:17:05,710 - INFO - package: mysql.connector.plugins
+2025-05-20 17:17:05,711 - INFO - plugin_name: caching_sha2_password
+2025-05-20 17:17:05,711 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-20 17:17:05,720 - ERROR - Error inserting user 'ass': 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-05-20 17:21:38,701 - INFO - package: mysql.connector.plugins
+2025-05-20 17:21:38,702 - INFO - plugin_name: caching_sha2_password
+2025-05-20 17:21:38,702 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-20 17:21:38,710 - ERROR - Error inserting user 'asd': 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-05-20 17:28:43,734 - INFO - package: mysql.connector.plugins
+2025-05-20 17:28:43,734 - INFO - plugin_name: caching_sha2_password
+2025-05-20 17:28:43,734 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-20 17:28:43,744 - ERROR - Error inserting user 'as3': 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-05-20 17:30:05,993 - INFO - package: mysql.connector.plugins
+2025-05-20 17:30:05,993 - INFO - plugin_name: caching_sha2_password
+2025-05-20 17:30:05,993 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-20 17:30:06,002 - ERROR - Error inserting user 'root': 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
